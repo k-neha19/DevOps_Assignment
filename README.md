@@ -1,5 +1,4 @@
-cat > README.md <<'EOF'
-# DevOps Assignment
+DevOps Assignment
 
 ## Overview
 This repository contains my DevOps technical assignment work, organized into Set A and Set B.
